@@ -16,6 +16,7 @@ import java.io.DataOutputStream;
 import java.io.InputStream;
 import java.util.zip.DeflaterOutputStream;
 import java.util.zip.InflaterInputStream;
+import com.example.bunny.baseamf.R;
 
 
 public class TestActivity extends Activity {
